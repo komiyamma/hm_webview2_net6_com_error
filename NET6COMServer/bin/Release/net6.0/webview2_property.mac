@@ -6,6 +6,10 @@ message(com);
 com.aaa = 100
 message(com.aaa);
 
+let bbb = com.bbb;
+message(bbb);
+
+
 }
 
 

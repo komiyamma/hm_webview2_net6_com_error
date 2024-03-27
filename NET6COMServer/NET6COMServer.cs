@@ -42,5 +42,21 @@ namespace NET6COMServer
             }
 
         }
+
+        private int[] _bbb = [0,1,2];
+        public int[] bbb
+        {
+            get
+            {
+                return _bbb;
+            }
+
+            set
+            {
+                _bbb = value;
+            }
+
+        }
+
     }
 }
