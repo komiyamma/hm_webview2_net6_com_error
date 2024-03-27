@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NET6COMServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8874eeed05afc53890a1ce37e0fa8272e5b3955e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cb3da9be861af86668ed1ae26ced8a77fecdce9")]
 [assembly: System.Reflection.AssemblyProductAttribute("NET6COMServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NET6COMServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
