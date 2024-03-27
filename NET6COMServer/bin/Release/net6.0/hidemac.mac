@@ -1,0 +1,8 @@
+﻿#com = createobject(currentmacrodirectory + @"\NET6COMServer.comhost.dll", "{2231CB75-2BD5-40A6-907F-75F2116AF699}");
+message(str(#com));
+
+#ret = member(#com, "int_add", 3, 100);
+message(str(#ret));
+
+$ret = member(#com, "str_add", "あ", "いうえお");
+message($ret);

@@ -1,0 +1,14 @@
+C:\Users\admin\Downloads\NET6COMServer\NET6COMServer\bin\Release\net6.0\NET6COMServer.comhost.dll
+C:\Users\admin\Downloads\NET6COMServer\NET6COMServer\bin\Release\net6.0\NET6COMServer.deps.json
+C:\Users\admin\Downloads\NET6COMServer\NET6COMServer\bin\Release\net6.0\NET6COMServer.runtimeconfig.json
+C:\Users\admin\Downloads\NET6COMServer\NET6COMServer\bin\Release\net6.0\NET6COMServer.dll
+C:\Users\admin\Downloads\NET6COMServer\NET6COMServer\bin\Release\net6.0\NET6COMServer.pdb
+C:\Users\admin\Downloads\NET6COMServer\NET6COMServer\obj\Release\net6.0\NET6COMServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\NET6COMServer\NET6COMServer\obj\Release\net6.0\NET6COMServer.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\NET6COMServer\NET6COMServer\obj\Release\net6.0\NET6COMServer.AssemblyInfo.cs
+C:\Users\admin\Downloads\NET6COMServer\NET6COMServer\obj\Release\net6.0\NET6COMServer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\NET6COMServer\NET6COMServer\obj\Release\net6.0\NET6COMServer.dll
+C:\Users\admin\Downloads\NET6COMServer\NET6COMServer\obj\Release\net6.0\refint\NET6COMServer.dll
+C:\Users\admin\Downloads\NET6COMServer\NET6COMServer\obj\Release\net6.0\NET6COMServer.pdb
+C:\Users\admin\Downloads\NET6COMServer\NET6COMServer\obj\Release\net6.0\NET6COMServer.genruntimeconfig.cache
+C:\Users\admin\Downloads\NET6COMServer\NET6COMServer\obj\Release\net6.0\ref\NET6COMServer.dll
