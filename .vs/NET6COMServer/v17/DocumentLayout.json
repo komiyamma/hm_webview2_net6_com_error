@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\GitHub\\hm_webview2_net6_com_error\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A077AEB-A270-423D-8B6A-9C8D907EB564}|NET6COMServer\\NET6COMServer.csproj|c:\\users\\admin\\documents\\github\\hm_webview2_net6_com_error\\net6comserver\\net6comserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A077AEB-A270-423D-8B6A-9C8D907EB564}|NET6COMServer\\NET6COMServer.csproj|solutionrelative:net6comserver\\net6comserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NET6COMServer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\hm_webview2_net6_com_error\\NET6COMServer\\NET6COMServer.cs",
+              "RelativeDocumentMoniker": "NET6COMServer\\NET6COMServer.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\hm_webview2_net6_com_error\\NET6COMServer\\NET6COMServer.cs",
+              "RelativeToolTip": "NET6COMServer\\NET6COMServer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvygAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T05:57:10.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
